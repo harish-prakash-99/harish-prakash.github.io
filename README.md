@@ -1,2 +1,2 @@
-# harishprakash.github.io
+# harish-prakash.github.io
 Personal Website with CV and stuff 
